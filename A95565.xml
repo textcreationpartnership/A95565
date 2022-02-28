@@ -1,0 +1,958 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The number and names of all the kings of England &amp; Scotland from the beginning of their governments, to this present. As also, the times when, and how long each of them reigned. Shewing how many of them came to untimely ends: eyther by imprisonment, banishment, famine, poyson, drowning, beheading, falling from horses, slaine in battells, murdered, or otherwise. By J.T.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95565</idno>
+            <idno type="STC">Wing T493</idno>
+            <idno type="STC">Thomason E1246_3</idno>
+            <idno type="STC">ESTC R209216</idno>
+            <idno type="EEBO-CITATION">99868107</idno>
+            <idno type="PROQUEST">99868107</idno>
+            <idno type="VID">169493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169493)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 170:E1246[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The number and names of all the kings of England &amp; Scotland from the beginning of their governments, to this present. As also, the times when, and how long each of them reigned. Shewing how many of them came to untimely ends: eyther by imprisonment, banishment, famine, poyson, drowning, beheading, falling from horses, slaine in battells, murdered, or otherwise. By J.T.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. and are to be sold by Francis Coles, at his shop in the Old Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.T. = John Taylor.</note>
+                  <note>Annotation on Thomason copy: "July 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers --  Early works to 1800.</term>
+               <term>Scotland --  Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169493:1" rendition="simple:additions"/>
+            <p>THE NVMBER AND NAMES OF ALL THE KINGS OF ENGLAND &amp; SCOTLAND From the beginning of their Governments, to this preſent.</p>
+            <p>As alſo, the times when, and how long each of them Reigned.</p>
+            <p>SHEWING HOW MANY OF them came to untimely ends: eyther by Im<g ref="char:EOLhyphen"/>priſonment, Baniſhment, Famine, Poyſon, Drowning, Beheading, Falling from Horſes, Slaine in Battells, Murdered, or otherwiſe.</p>
+            <p>By J. T.</p>
+            <p>LONDON, Printed by T. H. and are to be ſold by FRANCIS COLES, at his ſhop in the Old Bayly, 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169493:2"/>
+            <pb facs="tcp:169493:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Any Writers do make doubt whether this Land had, ever any King called</hi> Bruce: <hi>ſame doe utterly deny that any ſuch man was but the moſt Authors doe off me that when</hi> Troy <hi>was ſpoyted and burnt by the Greekes, the</hi> 
+               <gap reason="illegible" resp="#UOM" extent="4 words">
+                  <desc>〈◊◊◊◊〉</desc>
+               </gap>, <hi>and there was married to a daughter of</hi> L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>nu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>King of</hi> Fulcany, <hi>(now the Dukedome of</hi> Florence) <hi>by which Lady he had a ſon named</hi> Aſcanius, <hi>who was the Father of</hi> Silvous Poſt<g ref="char:EOLhyphen"/>humus; <hi>that</hi> Silvin <hi>was the Father of</hi> Brute. Brute <hi>being but fifteen years old in fortunatly (as he in a forreſt was hunting) ſlow his Father</hi> Silvius <hi>with an arrow as he ſhot into a thicket, thinking he had ſhot is a Deer: for which he was baniſhed from that Countrey, and ſhipping himſelfe wish a good (or great) number of his followers be land d here and was the firſt King of this Land. This is the opinion of many an<g ref="char:EOLhyphen"/>cient and learned men, and divers Writers doe oppoſe thoſe authors: but I am reſolved that ane King or other had Reigne here when it was firſt a Kingdome and becauſe this Land bears the ancient name of</hi> Britaine <hi>(or</hi> Brutaine) <hi>I do hold with ſuch Authors as for</hi> Brute <hi>doe hold with mee.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_the_kings_of_England">
+            <pb n="4" facs="tcp:169493:3"/>
+            <head>A Deſcription of all the Kings of <hi>ENGLAND,</hi> how long they raigned, and how many of them came to untimely ends.</head>
+            <list>
+               <head>The number and names of Kings.</head>
+               <item>
+                  <label>1</label>
+                  <hi>BRute</hi> raigned 24 yeares.</item>
+               <item>
+                  <label>2</label>
+                  <hi>Locrine</hi> raigned 20 yeares.</item>
+               <item>
+                  <label>3</label>
+Q. <hi>Gwendolin</hi> raigned 15 yeares.</item>
+               <item>
+                  <label>4</label>
+                  <hi>Madam</hi> raigned 40 yeares. Devoured by Wolves as he was hunting.</item>
+               <item>
+                  <label>5</label>
+                  <hi>Mempricius</hi> raigned 20 yeares. Devoured by Wolves.</item>
+               <item>
+                  <label>6</label>
+                  <hi>Ebrank</hi> raigned 40 yeares.</item>
+               <item>
+                  <label>7</label>
+                  <hi>Leile</hi> raigned 25 yeares.</item>
+               <item>
+                  <label>8</label>
+                  <hi>Rudhudibraſſe</hi> raigned 29 yeares.</item>
+               <item>
+                  <label>9</label>
+                  <hi>Bladud</hi> raigned 20 yeares. Brake his neck, in practiſing to fly from the top of <hi>Apol<g ref="char:EOLhyphen"/>lors</hi> Temple <hi>London,</hi> in playing the fowle or foole: he builded <hi>Bathe.</hi>
+               </item>
+               <item>
+                  <label>10</label>
+                  <hi>Leire</hi> raigned 40 yeares.</item>
+               <item>
+                  <label>11</label>
+Q. <hi>Cordelia</hi> raigned 5 yeares. She was K. <hi>Leires</hi> Daughter, and ſlew her ſelfe in priſon.</item>
+               <pb n="5" facs="tcp:169493:3"/>
+               <item>
+                  <label>12</label>
+                  <hi>Morgan</hi> and <hi>Cunedague</hi> raigned 33 yeares.</item>
+               <item>
+                  <label>13</label>
+                  <hi>Rivallo</hi> raigned 40 yeares.</item>
+               <item>
+                  <label>14</label>
+                  <hi>Gurguſtua</hi> raigned 38 yeares.</item>
+               <item>
+                  <label>15</label>
+                  <hi>Sicillius</hi> raigned 40 yeares.</item>
+               <item>
+                  <label>16</label>
+                  <hi>Jago</hi> raigned 25 yeares.</item>
+               <item>
+                  <label>17</label>
+                  <hi>Kimarus</hi> raigned 54 yeares.</item>
+               <item>
+                  <label>18</label>
+                  <hi>Gorboangge</hi> raigned 62 yeares.</item>
+               <item>
+                  <label>19, 20</label>
+                  <hi>Farex</hi> and <hi>Perex</hi> raign<g ref="char:EOLhyphen"/>ed together. 50 yeares. Both murdered, <hi>Forex</hi> killed <hi>Porex,</hi> and their Mother killed <hi>Ferex.</hi>
+               </item>
+               <item>
+                  <label>21</label>
+                  <hi>Mulnutius Dunwall</hi> raigned 40 yeares.</item>
+               <item>
+                  <label>22</label>
+                  <hi>Boliuns</hi> raigned 26 yeares.</item>
+               <item>
+                  <label>23</label>
+                  <hi>Garguintus</hi> raigned 19 yeares.</item>
+               <item>
+                  <label>24</label>
+                  <hi>Guintbeli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> raigned 26 yeares.</item>
+               <item>
+                  <label>25</label>
+                  <hi>Cecillius</hi> raigned 7 yeares.</item>
+               <item>
+                  <label>26</label>
+                  <hi>Kimarus</hi> raigned 3 yeares.</item>
+               <item>
+                  <label>27</label>
+                  <hi>Elianus</hi> raigned 9 yeares.</item>
+               <item>
+                  <label>28</label>
+                  <hi>Morindus</hi> raigned 8 yeares.</item>
+               <item>
+                  <label>29</label>
+                  <hi>Gorbonianns</hi> raigned 11 yeares.</item>
+               <item>
+                  <label>30</label>
+                  <hi>Archigalle</hi> raigned 34 yeares. Theſe 4 Kings raigned promiſ-cuouſly, <hi>Archigalle</hi> was firſt crowned, depoſed, crowned againe, depoſed the ſecond time, crowned againe, raigned in all 34 yeares, in his Raigne began the firſt King of <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <label>31</label>
+                  <hi>Elidurus</hi> raigned 34 yeares. Theſe 4 Kings raigned promiſ-cuouſly, <hi>Archigalle</hi> was firſt crowned, depoſed, crowned againe, depoſed the ſecond time, crowned againe, raigned in all 34 yeares, in his Raigne began the firſt King of <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <label>32</label>
+                  <hi>Vigerius</hi> raigned 34 yeares. Theſe 4 Kings raigned promiſ-cuouſly, <hi>Archigalle</hi> was firſt crowned, depoſed, crowned againe, depoſed the ſecond time, crowned againe, raigned in all 34 yeares, in his Raigne began the firſt King of <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <label>33</label>
+                  <hi>Peredurus</hi> raigned 34 yeares. Theſe 4 Kings raigned promiſ-cuouſly, <hi>Archigalle</hi> was firſt crowned, depoſed, crowned againe, depoſed the ſecond time, crowned againe, raigned in all 34 yeares, in his Raigne began the firſt King of <hi>Scotland.</hi>
+               </item>
+               <pb n="6" facs="tcp:169493:4"/>
+               <item>
+                  <label>34</label>
+                  <hi>Gorbonian</hi> raigned 10 yeares.</item>
+               <item>
+                  <label>35</label>
+                  <hi>Morgan</hi> raigned 14 yeares.</item>
+               <item>
+                  <label>36</label>
+                  <hi>Emerianus</hi> raigned 7 yeares.</item>
+               <item>
+                  <label>37</label>
+                  <hi>Juvall</hi> raigned 20 yeares.</item>
+               <item>
+                  <label>38</label>
+                  <hi>Rimo</hi> raigned 16 yeares.</item>
+               <item>
+                  <label>39</label>
+                  <hi>Geruntiu</hi> raigned 20 yeares.</item>
+               <item>
+                  <label>40</label>
+                  <hi>Catillus</hi> raigned <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 yeares.</item>
+               <item>
+                  <label>41</label>
+                  <hi>Cortus</hi> raigned 20 yeares. In the ſhort time of 54 yeares, from the Raigne of <hi>Coylns</hi> the 41 King, to <hi>Lud</hi> the 64 King; this Land had 2 Kings! So there being ſuch diverſities and alteration of Times and Writers, that it is no reckoning true of the Raignes of Kings from <hi>Geruntius</hi> the 39 King to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the 67 King, in whoſe time our Saviour was borne.</item>
+               <item>
+                  <label>42</label>
+                  <hi>Porex</hi> raigned 5 yeares.</item>
+               <item>
+                  <label>43</label>
+                  <hi>Cbirimus</hi> raigned 1 yeare.</item>
+               <item>
+                  <label>44</label>
+                  <hi>Fulgon</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>45</label>
+                  <hi>Eldred</hi> raigned 1 yeare.</item>
+               <item>
+                  <label>46</label>
+                  <hi>And<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gius</hi> raigned <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yeare.</item>
+               <item>
+                  <label>47</label>
+                  <hi>Varianu</hi> raigned 1 yeare.</item>
+               <item>
+                  <label>48</label>
+                  <hi>Eliud</hi> raigned 5 yeares.</item>
+               <item>
+                  <label>49</label>
+                  <hi>Didamius</hi> raigned 5 yeares.</item>
+               <item>
+                  <label>50</label>
+                  <hi>Gurgivia;</hi> raigned 3 yeares.</item>
+               <item>
+                  <label>51</label>
+                  <hi>Mercionus</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>52</label>
+                  <hi>Bladanus</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>53</label>
+                  <hi>Capenus</hi> raigned 3 yeares.</item>
+               <pb n="7" facs="tcp:169493:4"/>
+               <item>
+                  <label>54</label>
+                  <hi>Quinus</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>55</label>
+                  <hi>Sillius</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>56</label>
+                  <hi>Rodianus</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>57</label>
+                  <hi>Redagius</hi> raigned 3 yeares.</item>
+               <item>
+                  <label>58</label>
+                  <hi>Samulius</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>59</label>
+                  <hi>Penniſellus</hi> raigned 13 yeares.</item>
+               <item>
+                  <label>60</label>
+                  <hi>Pirhus</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>61</label>
+                  <hi>Caporus</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>62</label>
+                  <hi>Dinellus</hi> raigned 4 yeares.</item>
+               <item>
+                  <label>63</label>
+                  <hi>Helleus</hi> raigned 1 yeare.</item>
+               <item>
+                  <label>64</label>
+                  <hi>Lud</hi> raigned 11 yeares.</item>
+               <item>
+                  <label>65</label>
+                  <hi>Caſſibelan</hi> raigned 17 yeares.</item>
+               <item>
+                  <label>66</label>
+                  <hi>Theomantius</hi> raigned 23 yeares.</item>
+               <item>
+                  <label>67</label>
+                  <hi>Cimbolinus</hi> raigned 21 yeares. Our Saviour was born in the firſt of <hi>Cimbelinus</hi> raign.</item>
+               <item>
+                  <label>68</label>
+                  <hi>Guiderius</hi> raigned 21 yeares. Slaine.</item>
+               <item>
+                  <label>69</label>
+                  <hi>Arviragus</hi> raigned 26 yeares.</item>
+               <item>
+                  <label>70</label>
+                  <hi>Marius</hi> raigned 53 yeares.</item>
+               <item>
+                  <label>71</label>
+                  <hi>Coylus</hi> 2. raigned 55 yeares.</item>
+               <item>
+                  <label>72</label>
+                  <hi>Lucius</hi> raigned 12 yeares. <hi>Lucius</hi> was our firſt Chriſtian King.</item>
+               <item>
+                  <label>73</label>
+                  <hi>Severus</hi> raigned 18 yeares. Killed at Yorke.</item>
+               <item>
+                  <label>74</label>
+                  <hi>Baſſianus</hi> raigned 6 yeares.</item>
+               <item>
+                  <label>75</label>
+                  <hi>Cauraſivas</hi> raigned 7 yeares. Slain by <hi>A<g ref="char:EOLhyphen"/>lectus.</hi>
+               </item>
+               <item>
+                  <label>76</label>
+                  <hi>Alectus</hi> raigned 3 yeares. Slaine by <hi>Aſ<g ref="char:EOLhyphen"/>cleopidatus.</hi>
+               </item>
+               <item>
+                  <label>77</label>
+                  <hi>Aſcleopidatus</hi> raigned 2 yeares. By <hi>Coyle</hi> he was ſlaine.</item>
+               <pb n="8" facs="tcp:169493:5"/>
+               <item>
+                  <label>78</label>
+                  <hi>Coyle</hi> raigned 14 yeares.</item>
+               <item>
+                  <label>79</label>
+                  <hi>Constantius</hi> raigned 4 yeares.</item>
+               <item>
+                  <label>80</label>
+                  <hi>Conſtantine</hi> raigned 22 yeares.</item>
+               <item>
+                  <label>81</label>
+                  <hi>Conſtantinus</hi> raigned 5 yeares. Theſe were Bro<g ref="char:EOLhyphen"/>thers, murdered, and both by ſtrife againſt each other.</item>
+               <item>
+                  <label>82</label>
+                  <hi>Conſtans</hi> raigned 3 yeares. Theſe were Bro<g ref="char:EOLhyphen"/>thers, murdered, and both by ſtrife againſt each other.</item>
+               <item>
+                  <label>83</label>
+                  <hi>Octavius</hi> raigned 54 yeares. Slaine by <hi>Octavius.</hi>
+               </item>
+               <item>
+                  <label>84</label>
+                  <hi>Tra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erus</hi> raigned 6 yeares.</item>
+               <item>
+                  <label>85</label>
+                  <hi>Conſtantius</hi> 2. raigned 20 yeares. Slaine by <hi>Gratian.</hi>
+               </item>
+               <item>
+                  <label>86</label>
+                  <hi>Maximinianus</hi> raigned 1 yeare.</item>
+               <item>
+                  <label>87</label>
+                  <hi>Gratian</hi> raigned 1 yeare. Slaine.</item>
+               <item>
+                  <label>88</label>
+                  <hi>Vortiger</hi> raigned 6 yeares. Burnt with his Wife, houſe, and family.</item>
+               <item>
+                  <label>89</label>
+                  <hi>Vortimer</hi> raigned 11 yeares. Poyſoned.</item>
+               <item>
+                  <label>90</label>
+                  <hi>Aurelius Ambroſe</hi> raigned 32 yeares.</item>
+               <item>
+                  <label>91</label>
+                  <hi>Uther Pendragon</hi> raigned 18 yeares. Poy<g ref="char:EOLhyphen"/>ſoned.</item>
+               <item>
+                  <label>92</label>
+                  <hi>Arthur</hi> raigned 12 yeares. Slaine.</item>
+               <item>
+                  <label>93</label>
+                  <hi>Conſtantine</hi> raigned 2 yeares. Slaine.</item>
+               <item>
+                  <label>94</label>
+                  <hi>Aurelius Conanus</hi> raigned 3 yeares.</item>
+            </list>
+            <div type="part">
+               <p>
+                  <hi>ABout this time. England was divided in<g ref="char:EOLunhyphen"/>to ſeven Kingdomes<g ref="char:punc">▪</g> namely, 1. Kent, 2. South Saxons, 3. Weſt Saxons, 4. Eaſt-Saxons, 5. Northumbers, 6. Eaſt Angles,
+<pb n="9" facs="tcp:169493:5"/>
+and 7. Mercia: This diviſion began in the 455 yeare after Chriſts Incarnation (but it was not ſettled in 40 yeares after) heere was nothing but continuell contention amongſt theſe 7 ſhorers of this Monarchy, their miſgo<g ref="char:EOLhyphen"/>verned Government laſted 398 yeares, there having raigned 91 petty Kings; but it was neare 600 yeares before this Land was againe <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ed into one ſole Monarchy, under King</hi> Athelſtane, Anno 920.</p>
+               <list>
+                  <item>
+                     <label>95</label>
+                     <hi>Vartiparus</hi> raigned 4 yeares.</item>
+                  <item>
+                     <label>96</label>
+                     <hi>Malgo</hi> raigned 5 yeares.</item>
+                  <item>
+                     <label>97</label>
+                     <hi>Careticus</hi> raigned 3 yeares.</item>
+                  <item>
+                     <label>98</label>
+                     <hi>Cadwane</hi> raigned 4 yeares.</item>
+                  <item>
+                     <label>99</label>
+                     <hi>Cadwallin</hi> raigned 4 yeares.</item>
+                  <item>
+                     <label>100</label>
+                     <hi>Cadwallador</hi> raigned 3 yeares. Dyed at Rome.</item>
+                  <item>
+                     <label>101</label>
+                     <hi>Atbelſtane</hi> raigned 15 yeares.</item>
+                  <item>
+                     <label>102</label>
+                     <hi>Edmund</hi> raigned 5 yeares. Slaine.</item>
+                  <item>
+                     <label>103</label>
+                     <hi>Eldeed</hi> raigned 9 yeares. Baniſhed by the Danes.</item>
+                  <item>
+                     <label>104</label>
+                     <hi>Edwin</hi> raigned 5 yeares. Depoſed.</item>
+                  <item>
+                     <label>105</label>
+                     <hi>Edgar</hi> raigned 16 yeares.</item>
+                  <item>
+                     <label>106</label>
+                     <hi>Edward</hi> raigned 3 yeares. Murdred.</item>
+                  <item>
+                     <label>107</label>
+                     <hi>Etheldred</hi> raigned 38 yeares.</item>
+                  <pb n="10" facs="tcp:169493:6"/>
+                  <item>
+                     <label>108</label>
+                     <hi>Edm. Ironſide</hi> raigned 2 yeares.</item>
+                  <item>
+                     <label>109</label>
+                     <hi>Canutus</hi> raigned 20 yeares.</item>
+                  <item>
+                     <label>110</label>
+                     <hi>Harold</hi> 1. raigned 3. yeares.</item>
+                  <item>
+                     <label>111</label>
+                     <hi>Hardicanut<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> raigned 3. yeares. This Ty<g ref="char:EOLhyphen"/>rant dranke himſelfe dead at Lambeth, in memory whereof the marry Hock mundayes were kept yearely.</item>
+                  <item>
+                     <label>112</label>
+                     <hi>Edw. Confeſſor</hi> raigned 23 yeares.</item>
+                  <item>
+                     <label>113</label>
+                     <hi>Harold</hi> 2. raigned 9 moneths. Slaine at Battle Abby in Suſſex.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>In the yeare of our Lord 1066, <hi>William</hi> the <hi>Conqueror</hi> began his Raigne heere; <hi>Ma<g ref="char:EOLhyphen"/>colme</hi> the third being then King of <hi>SCOTLAND.</hi>
+               </head>
+               <list>
+                  <head>The number and names of Kings.</head>
+                  <item>
+                     <label>114</label>
+                     <hi>William Conqueror</hi> raigned 21 yeares.</item>
+                  <item>
+                     <label>115</label>
+                     <hi>William Rufus</hi> raigned 13 yeares. Slaine in<g ref="char:EOLhyphen"/>ſtead of a Deere in New-Forreſt.</item>
+                  <item>
+                     <label>116</label>
+                     <hi>Henry</hi> the 1. raigned 35 yeares.</item>
+                  <item>
+                     <label>117</label>
+                     <hi>Stephen</hi> raigned 19 yeares.</item>
+                  <item>
+                     <label>118</label>
+                     <hi>Henry</hi> the 2. raigned 34 yeares.</item>
+                  <item>
+                     <label>119</label>
+                     <hi>Richard</hi> the 1. raigned 9 yeares. Slaine.</item>
+                  <item>
+                     <label>120</label>
+                     <hi>John</hi> raigned 17 yeares. Poyſoned, as ſome ſay, at Swinſted Abby.</item>
+                  <pb n="11" facs="tcp:169493:6"/>
+                  <item>
+                     <label>121</label>
+                     <hi>Henry</hi> the 3. raigned 56 yeares.</item>
+                  <item>
+                     <label>122</label>
+                     <hi>Edward</hi> the 1. raigned 35 yeares.</item>
+                  <item>
+                     <label>123</label>
+                     <hi>Edward</hi> the 2. raigned 19 yeares. Murde<g ref="char:EOLhyphen"/>red at Barkley Caſtle.</item>
+                  <item>
+                     <label>124</label>
+                     <hi>Edward</hi> the 3. raigned 50 yeares.</item>
+                  <item>
+                     <label>125</label>
+                     <hi>Richard</hi> the 2. raigned 22 yeares. Murde<g ref="char:EOLhyphen"/>red at Pomfrer Caſtle.</item>
+                  <item>
+                     <label>126</label>
+                     <hi>Henry</hi> the 4 raigned 14 yeares.</item>
+                  <item>
+                     <label>127</label>
+                     <hi>Henry</hi> the 5. raigned 9 yeares.</item>
+                  <item>
+                     <label>128</label>
+                     <hi>Henry</hi> the 6. raigned 57 yeares. Murdered in the Tower.</item>
+                  <item>
+                     <label>129</label>
+                     <hi>Edward</hi> the 4. raigned 22 yeares.</item>
+                  <item>
+                     <label>130</label>
+                     <hi>Edward</hi> the 5. raigned 0 yeares. Murdered in the Tower.</item>
+                  <item>
+                     <label>131</label>
+                     <hi>Richard</hi> the 3. raigned 2 yeares. Shine at Boſworth.</item>
+                  <item>
+                     <label>132</label>
+                     <hi>Henry</hi> the 7. raigned 23 yeares.</item>
+                  <item>
+                     <label>133</label>
+                     <hi>Henry</hi> the 8. raigned 37 yeares.</item>
+                  <item>
+                     <label>134</label>
+                     <hi>Edward</hi> the 6. raigned 7 yeares.</item>
+                  <item>
+                     <label>135</label>
+                     <hi>Mary</hi> raigned 5 yeares.</item>
+                  <item>
+                     <label>136</label>
+                     <hi>Elizabeth</hi> raigned 44 yeares.</item>
+                  <item>
+                     <label>137</label>
+                     <hi>James</hi> raigned 22 yeares.</item>
+                  <item>
+                     <label>138</label>
+                     <hi>Charles</hi> raigned 24 yeares. Beſteatſed.</item>
+               </list>
+            </div>
+         </div>
+         <div type="list_of_the_kings_of_Scotland">
+            <pb n="12" facs="tcp:169493:7"/>
+            <head>Scotland began to bee a Kingdome 339 yeares before our Saviours comming, and hath continued under the Government of 108 Kings, neare 2000 yeares, beginning with King <hi>FERGUS.</hi>
+            </head>
+            <list>
+               <head>The number and names of Kings.</head>
+               <item>
+                  <label>1</label>
+                  <hi>Fergus</hi> raigned 25 yeares. Drowned in Ire<g ref="char:EOLhyphen"/>land at Craigfergus.</item>
+               <item>
+                  <label>2</label>
+                  <hi>Feritharius</hi> raigned 15 yeares. Murdered by one <hi>Ferlegus,</hi> a brothers ſon of <hi>Fergus.</hi>
+               </item>
+               <item>
+                  <label>3</label>
+                  <hi>Manus</hi> aigned 29 yeares.</item>
+               <item>
+                  <label>4</label>
+                  <hi>Donardilla</hi> aigned 28 yeares.</item>
+               <item>
+                  <label>5</label>
+                  <hi>Nothatus</hi> raigned 20 yeares. Murdered.</item>
+               <item>
+                  <label>6</label>
+                  <hi>Reutherus</hi> raigned 27 yeares.</item>
+               <item>
+                  <label>7</label>
+                  <hi>Reutha</hi> raigned 14 yeares. <hi>Reutha</hi> gave off his Kingly ſway for a quiet life.</item>
+               <item>
+                  <label>8</label>
+                  <hi>Thereus</hi> raigned 12 yeares. Baniſhed by his Nobles, and dyed at Yorke.</item>
+               <item>
+                  <label>9</label>
+                  <hi>Ioſina</hi> raigned 24 yeares.</item>
+               <item>
+                  <label>10</label>
+                  <hi>Finanus</hi> raigned 30 yeares.</item>
+               <item>
+                  <label>11</label>
+                  <hi>Durstus</hi> raigned 9 yeares. Slaine.</item>
+               <item>
+                  <label>12</label>
+                  <hi>Evenus</hi> raigned 19 yeares.</item>
+               <item>
+                  <label>13</label>
+                  <hi>Gillus</hi> raigned 2 yeares. Murdred.</item>
+               <item>
+                  <label>14</label>
+                  <hi>Evenus</hi> the 2. raigned 17 yeares.</item>
+               <item>
+                  <label>15</label>
+                  <hi>Ederus</hi> raigned 48 yeares.</item>
+               <item>
+                  <label>16</label>
+                  <hi>Evenus</hi> the 3. raigned 7 yeares. Dyed in priſon.</item>
+               <pb n="13" facs="tcp:169493:7"/>
+               <item>
+                  <label>17</label>
+                  <hi>Metelanus</hi> raigned 39 yeares.</item>
+               <item>
+                  <label>18</label>
+                  <hi>Caractacus</hi> raigned 20 yeares.</item>
+               <item>
+                  <label>19</label>
+                  <hi>Corbreaus</hi> raigned 35 yeares.</item>
+               <item>
+                  <label>20</label>
+                  <hi>Dardauns</hi> raigned 4 yeares. Beheaded by his owne Subjects.</item>
+               <item>
+                  <label>21</label>
+                  <hi>Corbredus</hi> the 2. raigned 35 yeares.</item>
+               <item>
+                  <label>22</label>
+                  <hi>Lugthanus</hi> raigned 3 yeares. Murdred.</item>
+               <item>
+                  <label>23</label>
+                  <hi>Mogallus</hi> raigned 36 yeares. Murdred.</item>
+               <item>
+                  <label>24</label>
+                  <hi>Conarus</hi> raigned 14 yeares. Dyed in priſon.</item>
+               <item>
+                  <label>25</label>
+                  <hi>Ethodius</hi> raigned 33 yeares. Murdred by an Iriſh Harper.</item>
+               <item>
+                  <label>26</label>
+                  <hi>Satrasll</hi> raigned 4 yeares. Murdred.</item>
+               <item>
+                  <label>27</label>
+                  <hi>Eonald</hi> the 1. and firſt Chriſtian King of Stotland.</item>
+               <item>
+                  <label>28</label>
+Euthodius the 2. raigned 16 yeares. Mur<g ref="char:EOLhyphen"/>dered by his ſervants.</item>
+               <item>
+                  <label>29</label>
+                  <hi>Athrico</hi> raigned 12 yeares. Murdered himſelfe.</item>
+               <item>
+                  <label>30</label>
+                  <hi>Nathalocus</hi> raigned 11 yeares. Murdered, and caſt into a Privy.</item>
+               <item>
+                  <label>31</label>
+                  <hi>Findocus</hi> raigned 11 yeares. Murdered as he was hunting.</item>
+               <item>
+                  <label>32</label>
+                  <hi>Donald</hi> the 2 raigned 1 yeare. Slaine.</item>
+               <item>
+                  <label>33</label>
+                  <hi>Donald</hi> the 3. raigned 12 years. Murdred.</item>
+               <item>
+                  <label>34</label>
+                  <hi>Crathiliuthus</hi> raigned 24 yeares.</item>
+               <item>
+                  <label>35</label>
+                  <hi>Fincormachus</hi> raigned 47 yeares.</item>
+               <item>
+                  <label>36</label>
+                  <hi>Romachus</hi> raigned 3 yeares. Beheaded.</item>
+               <item>
+                  <label>37</label>
+                  <hi>Auguſianus</hi> raigned 3 yeares. Slaine.</item>
+               <item>
+                  <label>38</label>
+                  <hi>Fethalmachus</hi> raigned 3 yeares. Murdred by another Harper.</item>
+               <pb n="14" facs="tcp:169493:8"/>
+               <item>
+                  <label>39</label>
+                  <hi>Eugenius</hi> the 1. raigned 3 yeares. Slaine. The Scots were baniſhed by the Ficts and Romanes 44 yeares.</item>
+               <item>
+                  <label>40</label>
+                  <hi>Fergus</hi> the 2. 2 raigned 16 yeares. Slaine.</item>
+               <item>
+                  <label>41</label>
+                  <hi>Eugenius</hi> the 2. raigned 32 yeares.</item>
+               <item>
+                  <label>42</label>
+                  <hi>Dongardus</hi> raigned 5 yeares.</item>
+               <item>
+                  <label>43</label>
+                  <hi>Conſtantine</hi> the 1. raigned 22 yeares. Mur<g ref="char:EOLhyphen"/>dered.</item>
+               <item>
+                  <label>44</label>
+                  <hi>Congallus</hi> the 1.</item>
+               <item>
+                  <label>45</label>
+                  <hi>Goranus</hi> raigned 34 yeares.</item>
+               <item>
+                  <label>46</label>
+                  <hi>Eugenius</hi> the 3. raigned 23 yeares.</item>
+               <item>
+                  <label>47</label>
+                  <hi>Congallus</hi> the 2. raigned 11 yeares.</item>
+               <item>
+                  <label>48</label>
+                  <hi>Kinnatillus</hi> raigned 1 yeare.</item>
+               <item>
+                  <label>49</label>
+                  <hi>Ayaanus</hi> raigned 35 yeares.</item>
+               <item>
+                  <label>50</label>
+                  <hi>Kenethus</hi> raigned 1 yeare</item>
+               <item>
+                  <label>51</label>
+                  <hi>Eugenius</hi> the 4. raigned 16 yeares.</item>
+               <item>
+                  <label>52</label>
+                  <hi>Ferquhard</hi> raigned 12 yeares. Killed him<g ref="char:EOLhyphen"/>ſelfe in priſon.</item>
+               <item>
+                  <label>53</label>
+                  <hi>Donald</hi> the 4. raigned 14 yeares. Drowned in the River Pay.</item>
+               <item>
+                  <label>54</label>
+                  <hi>Ferquard</hi> the 2. raigned 18 yeares. Killed by a Wolfe.</item>
+               <item>
+                  <label>55</label>
+                  <hi>Malauin</hi> raigned 20 yeares. Strangled by his wife, for which ſhe was burned.</item>
+               <item>
+                  <label>56</label>
+                  <hi>Eugenius</hi> the 5. raigned 4 yeares. Slaine by the Picts.</item>
+               <item>
+                  <label>57</label>
+                  <hi>Eugenius</hi> the 6. raigned 10 yeares.</item>
+               <item>
+                  <label>58</label>
+                  <hi>Ambir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eletbus</hi> raigned 1 yeare. Murdered.</item>
+               <item>
+                  <label>59</label>
+                  <hi>Eugenius</hi> the 7. raigned 17 yeares.</item>
+               <pb n="15" facs="tcp:169493:8"/>
+               <item>
+                  <label>60</label>
+                  <hi>Mordacus</hi> raigned 16 yeares.</item>
+               <item>
+                  <label>61</label>
+                  <hi>Elfinus</hi> raigned 31 yeares.</item>
+               <item>
+                  <label>62</label>
+                  <hi>Eugenius</hi> the 8. raigned 3 yeares. Murdred.</item>
+               <item>
+                  <label>63</label>
+                  <hi>Fergus</hi> the 3. raigned 3 yeares. Poyſoned by his Wife.</item>
+               <item>
+                  <label>64</label>
+                  <hi>Salvathius</hi> raigned 20 yeares.</item>
+               <item>
+                  <label>65</label>
+                  <hi>Achaius</hi> raigned 32 yeares.</item>
+               <item>
+                  <label>66</label>
+                  <hi>Congallus</hi> raigned 5 yeares.</item>
+               <item>
+                  <label>67</label>
+                  <hi>Dongallus</hi> raigned 7 yeares. Drowned in the River Spey.</item>
+               <item>
+                  <label>68</label>
+                  <hi>Alpinus</hi> raigned 3 yeares. Beheaded.</item>
+               <item>
+                  <label>69</label>
+                  <hi>Keneth</hi> the 2. raigned 20 yeares.</item>
+               <item>
+                  <label>70</label>
+                  <hi>Donald</hi> the 5. raigned 5 yeares. Slew him<g ref="char:EOLhyphen"/>ſelfe.</item>
+               <item>
+                  <label>71</label>
+                  <hi>Conſtantine</hi> the 2. raigned 16 yeares. Slaine by the Danes.</item>
+               <item>
+                  <label>72</label>
+                  <hi>Ethus</hi> raigned 2 yeares.</item>
+               <item>
+                  <label>73</label>
+                  <hi>Gregory</hi> raigned 18 yeares.</item>
+               <item>
+                  <label>74</label>
+                  <hi>Donald</hi> the 6. raigned 11 yeares.</item>
+               <item>
+                  <label>75</label>
+                  <hi>Conſtantine</hi> the 3. raigned 40 yeares. De<g ref="char:EOLhyphen"/>poſed himſelfe.</item>
+               <item>
+                  <label>76</label>
+                  <hi>Macolme</hi> 1. raigned 9 yeares. Murdered in Murray by his owne ſervants.</item>
+               <item>
+                  <label>77</label>
+                  <hi>Indulphus</hi> raigned 9 yeares. Slaine.</item>
+               <item>
+                  <label>78</label>
+                  <hi>Duffus</hi> raigned 5 yeares. Murdered in the County of Murray.</item>
+               <item>
+                  <label>79</label>
+                  <hi>Culenus</hi> raigned 4 yeares Murdered.</item>
+               <item>
+                  <label>80</label>
+                  <hi>Keneth</hi> the 3. raigned 24 yeares. Murdered by a woman.</item>
+               <pb facs="tcp:169493:9"/>
+               <item>
+                  <label>81</label>
+                  <hi>Conſtantive</hi> the 4. raigned 2 yeares. Slaine.</item>
+               <item>
+                  <label>82</label>
+                  <hi>Grimus</hi> raigned 8 yeares. Slaine.</item>
+               <item>
+                  <label>83</label>
+                  <hi>Macolme</hi> the 2. raigned 30 yeares. Murdred by his Nobles.</item>
+               <item>
+                  <label>84</label>
+                  <hi>Duncan</hi> the raigned 6 years. Murdred by <hi>Ma beth.</hi>
+               </item>
+               <item>
+                  <label>85</label>
+                  <hi>Mackbeth</hi> raigned 17 yeares. Slaine by <hi>Metcalma</hi>
+               </item>
+               <item>
+                  <label>86</label>
+                  <hi>Malcolme</hi> the 3. raigned 36 yeares. Slain at Anwick.</item>
+               <item>
+                  <label>87</label>
+                  <hi>Donald</hi> the 7. raigned 1 yeare. Expulſt.</item>
+               <item>
+                  <label>88</label>
+                  <hi>Duncan</hi> 2. raigned 1 yeare. Slaine.</item>
+               <item>
+                  <label>89</label>
+                  <hi>Donald</hi> the 7. crowned again, caſt into priſon, and his eyes put out, raigned 3 yeares.</item>
+               <item>
+                  <label>90</label>
+                  <hi>Edgar</hi> raigned 9 yeares.</item>
+               <item>
+                  <label>91</label>
+                  <hi>Alexander</hi> the 1. raigned 17 yeares.</item>
+               <item>
+                  <label>92</label>
+                  <hi>David</hi> the 1. raigned 29 yeares.</item>
+               <item>
+                  <label>93</label>
+                  <hi>Malcolme</hi> the 4. raigned 12 yeares.</item>
+               <item>
+                  <label>94</label>
+                  <hi>William</hi> ſurnamed the <hi>Lion</hi> raigned 49 yeares.</item>
+               <item>
+                  <label>95</label>
+                  <hi>Alexander</hi> the 2. raigned 35 yeares.</item>
+               <item>
+                  <label>96</label>
+                  <hi>Alexander</hi> the 3. raigned 37 y. Dyed with a fall from his horſe, Scotland without a King 7 yeares.</item>
+               <item>
+                  <label>97</label>
+                  <hi>John Ballioll</hi> raigned 4 yeares. Expulſt by <hi>Edward</hi> King of England.</item>
+               <item>
+                  <label>98</label>
+                  <hi>Robert Bruce</hi> raigned 24 yeares.</item>
+               <item>
+                  <label>99</label>
+                  <hi>David</hi> the 2. raigned 40 yeares.</item>
+               <item>
+                  <label>100</label>
+                  <hi>Edward Ballioll</hi> raigned 0 yeares.</item>
+               <item>
+                  <label>101</label>
+                  <hi>Robert</hi> the 2. raigned 19 yeares.</item>
+               <item>
+                  <label>102</label>
+                  <hi>Robert</hi> the 3. raigned 16 yeares. Scotland without a King 18 yeares.</item>
+               <item>
+                  <label>103</label>
+                  <hi>James</hi> the 1. raigned 30 yeares. Murdred by his Nobles.</item>
+               <item>
+                  <label>104</label>
+                  <hi>Iames</hi> the 2. raigned 24 yeares. Slain at Roxbrough.</item>
+               <item>
+                  <label>105</label>
+                  <hi>Iames</hi> the 3. raigned 29 yeares. Slaine at Banokſ<g ref="char:EOLhyphen"/>bourn.</item>
+               <item>
+                  <label>106</label>
+                  <hi>Iames</hi> the 4. raigned 25 yeares Slaine at denfield</item>
+               <item>
+                  <label>107</label>
+                  <hi>Iaines</hi> the 5. raigned 29 yeares.</item>
+               <item>
+                  <label>108</label>
+                  <hi>Mary</hi> raigned 18 yeares, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Caſtle.</item>
+               <item>
+                  <label>109</label>
+                  <hi>Iames</hi> the 6. raigned <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
